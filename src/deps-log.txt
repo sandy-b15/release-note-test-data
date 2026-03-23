@@ -1,0 +1,1 @@
+express: 4.x -> 5.x\nreact: 18.x -> 19.x\npg: 8.11 -> 8.13
