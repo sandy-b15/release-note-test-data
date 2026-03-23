@@ -1,0 +1,1 @@
+name: CI\non: [pull_request]\njobs:\n  test:\n    runs-on: ubuntu-latest
